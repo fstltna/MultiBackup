@@ -1,7 +1,7 @@
 # MultiBackup backup script for Multicraft (1.0)
 Creates a backup of your Multicraft folder
 
-Official support sites: [Official Github Repo](https://github.com/fstltna/MineBackup) - [Official Forum](https://minecity.online/index.php/forum/backup-script)  - [Official Download Area](https://minecity.online/index.php/downloads/category/5-server-tools)
+Official support sites: [Official Github Repo](https://github.com/fstltna/MultiBackup) - [Official Forum](https://minecity.online/index.php/forum/backup-script)  - [Official Download Area](https://minecity.online/index.php/downloads/category/5-server-tools)
 ![Minetest Sample Screen](https://MineCity.online/minetest_demo.png) 
 
 ---
