@@ -1,0 +1,3 @@
+# Set these for your situation
+BACKUP_DELAY=5
+BACKUP_CONFIG=/home/mtowner/MultiBackup/backups.rc
